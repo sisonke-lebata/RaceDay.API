@@ -1,5 +1,5 @@
-# RaceDay.API
-# RaceDay API
+ RaceDay.API
+RaceDay API
 
 ![RaceDay CI](https://github.com/YOUR_USERNAME/RaceDay/actions/workflows/dotnet.yml/badge.svg)
 
