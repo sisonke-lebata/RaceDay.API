@@ -29,3 +29,19 @@ The RaceDay API powers a race event management platform where organisers create 
 - CI/CD: GitHub Actions
 
   Project Structure
+  
+  Getting Started
+
+Prerequisites
+
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/) (or VS Code)
+- SQL Server LocalDB (comes with Visual Studio)
+
+ Setup Steps
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/RaceDay.git
+   cd RaceDay
