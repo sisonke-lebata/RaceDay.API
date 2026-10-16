@@ -40,11 +40,7 @@ Prerequisites
 
  Setup Steps
 
-Clone the repository
 
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/RaceDay.git
-   cd RaceDay
 <img width="745" height="411" alt="Screenshot 2026-10-16 221822" src="https://github.com/user-attachments/assets/06166a35-019c-4ded-aa45-549f262eb0bd" />
 
 
