@@ -45,3 +45,5 @@ Clone the repository
    ```bash
    git clone https://github.com/YOUR_USERNAME/RaceDay.git
    cd RaceDay
+<img width="745" height="411" alt="Screenshot 2026-10-16 221822" src="https://github.com/user-attachments/assets/4664947a-df94-4451-a6d4-a9470b2aafba" />
+
