@@ -40,7 +40,7 @@ Prerequisites
 
  Setup Steps
 
-1. Clone the repository
+Clone the repository
 
    ```bash
    git clone https://github.com/YOUR_USERNAME/RaceDay.git
